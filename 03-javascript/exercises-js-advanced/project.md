@@ -31,3 +31,7 @@ paginas: number
 recomenda: boolean
 leu: boolean
 ```
+
+3) No arquivo app.js desenvolva sua lógica para o comportamento abaixo: 
+  - deverá ser possível buscar livros pela categoria
+  - caso a pessoa usuária não escolha buscar, deverá mostrar todos os livros cadastrados, ordenados de forma crescente por quantidade de páginas.
