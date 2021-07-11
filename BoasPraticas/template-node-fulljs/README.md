@@ -4,21 +4,6 @@
 
 Programação Orientada a Boas Práticas, utilizando reaproveitamento de código, Patterns e padrões de nomeclatura para classes, Atomic Design e sua estrutura e impacto do projeto a partir do momento em que ele começa a escalar.
 
-## Template Node FullJS disponibilizado pelo Professor [Douglas Morais](https://github.com/mrdouglasmorais)
-
-Para iniciar o projeto:
-`git clone https://github.com/mrdouglasmorais/template-node-fulljs`
-
-Para instalar as dependências:
-`npm i`
-
-Para iniciar em modo de desenvolvimento:
-`npm start`
-
-## Necessário ter instalado NODEJS versão 14.x em diante.
-
-Para instalar o node [clique aqui](https://nodejs.org/en/)
-
 ---
 
 ## [BEM - Block Element Modifier](http://getbem.com/naming/)
@@ -40,3 +25,22 @@ Os cinco estágios do Atomic Design são:
 - Organismos
 - Modelos
 - Páginas
+
+---
+
+Para iniciar o projeto:
+`git clone https://github.com/mrdouglasmorais/template-node-fulljshttps://github.com/rayanaprata/gamaacademy/tree/main/BoasPraticas/template-node-fulljs`
+
+Para instalar as dependências:
+`npm i`
+
+Para iniciar em modo de desenvolvimento:
+`npm start`
+
+## Necessário ter instalado NODEJS versão 14.x em diante.
+
+Para instalar o node [clique aqui](https://nodejs.org/en/)
+
+---
+
+## Template Node FullJS disponibilizado pelo Professor [Douglas Morais](https://github.com/mrdouglasmorais)
