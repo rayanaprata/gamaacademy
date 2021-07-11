@@ -1,12 +1,14 @@
 import Planet from "../../../assets/images/elements/planet.png";
 
 let footer = `
-  <div>
+  <div class="footer-contain">
     <p>
-    Star wars  -  este é um exemplo criado para os Alunos Gama Academy
-    Módulo de boas práticas.
+      Star wars  -  este é um exemplo criado para os Alunos Gama Academy
+      Módulo de boas práticas.
     </p>
-    <img src="${Planet}" alt="Planet" heigth="180px" width="auto">
+    <a href="#section-one">
+        <img src="${Planet}" alt="planet">
+    </a>
   </div>
 `;
 
