@@ -1,0 +1,19 @@
+{
+  "name": "gamaacademy",
+  "version": "1.0.0",
+  "description": "Projeto criado no bootcamp Hiring Codes.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayanaprata/gamaacademy.git"
+  },
+  "author": "Rayana Prata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rayanaprata/gamaacademy/issues"
+  },
+  "homepage": "https://github.com/rayanaprata/gamaacademy#readme"
+}
