@@ -4,6 +4,8 @@
 
 Programação Orientada a Boas Práticas, utilizando reaproveitamento de código, Patterns e padrões de nomeclatura para classes, Atomic Design e sua estrutura e impacto do projeto a partir do momento em que ele começa a escalar.
 
+Veja o projeto online [clicando aqui](https://)
+
 ---
 
 ## [BEM - Block Element Modifier](http://getbem.com/naming/)

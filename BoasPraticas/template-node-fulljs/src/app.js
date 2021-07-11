@@ -1,28 +1,32 @@
-/** Imports **/
-import Utils from '../src/service/Utils';
+/* Imports */
+import Utils from "../src/service/Utils";
 
-/** Pages **/
-import { error404, home } from './views/pages/index';
+/* Pages */
+import { error404, home, jedi } from "./views/pages/index";
 
-/** Routes **/
+/* Routes */
 let routes = {
-    '/': home,
-}
+  "/": home,
+  "/jedi": jedi,
+};
 
 const router = async () => {
-    const root = document.getElementById('root');
+  const root = document.getElementById("root");
 
-    let request = Utils.parseRequestURL();
+  let request = Utils.parseRequestURL();
 
-    let parseURL = (request.resource ? '/' + request.resource : '/') + (request.id ? '/:id' + request.id : '') + (request.verb ? '/' + request.verb : '');
-    let page = routes[parseURL] ? routes[parseURL] : error404;
+  let parseURL =
+    (request.resource ? "/" + request.resource : "/") +
+    (request.id ? "/:id" + request.id : "") +
+    (request.verb ? "/" + request.verb : "");
+  let page = routes[parseURL] ? routes[parseURL] : error404;
 
-    root.innerHTML = await page.render();
-    await page.after_render();
-}
+  root.innerHTML = await page.render();
+  await page.after_render();
+};
 
-/**observa mudanças na hash*/
-window.addEventListener('hashchange', router);
+/* observa mudanças na hash */
+window.addEventListener("hashchange", router);
 
-/**oberva carregamento da pagina */
-window.addEventListener('load', router);
+/* oberva carregamento da pagina */
+window.addEventListener("load", router);
