@@ -14,7 +14,7 @@ Repositório para armazenar as atividades realizadas durante o Bootcamp Hiring C
 - [x] Boas Práticas
 - [x] Javascript Básico
 - [x] Javascript Avançado
-- [ ] Typescript
+- [x] Typescript
 - [ ] React
 
 ## ✨ Assignments
