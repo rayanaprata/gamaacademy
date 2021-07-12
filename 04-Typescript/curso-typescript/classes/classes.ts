@@ -25,3 +25,65 @@ console.log(data.dia);
 
 
 /* Site que gera o JS do seu Typescript na hora: https://www.typescriptlang.org/play?#code/ */
+
+
+class Carro {
+  private velocidadeAtual: number = 0;
+
+  constructor(
+    public marca: string,
+    public modelo: string,
+    private velocidadeMaxima: number = 220
+  ) {
+
+  }
+
+  private alterarVelocidade(delta: number) {
+    if (this.velocidadeAtual + delta < this.velocidadeMaxima && this.velocidadeAtual > 0) {
+      this.velocidadeAtual += delta;
+    }
+
+    /*
+    const novaVelocidade = this.velocidadeAtual + delta;
+
+    if (novaVelocidade >= 0 && novaVelocidade <= this.velocidadeMaxima) {
+      this.velocidadeAtual = novaVelocidade;
+    } else {
+      this.velocidadeAtual = delta > 0 ? this.velocidadeMaxima : 0;
+    }
+    */
+  }
+
+  acelerar() {
+    this.alterarVelocidade(5);
+  }
+
+  freiar() {
+    this.alterarVelocidade(-5);
+  }
+
+}
+
+const carro = new Carro('Ford', 'KA', 250);
+// não é possível alterar a velocidadeMaxima carro.velocidadeMaxima = 400;
+
+
+// Herança
+class Camaro extends Carro {
+
+  private turbo = false;
+
+  constructor(){
+    super('Chevrolet', 'Camaro', 500);
+  }
+
+  ligarTurbo() {
+    this.turbo = true;
+  }
+}
+
+// Camaro faz tudo que a classe Carro faz pois ele herdou tudo que tinha na classe Carro e ainda adicionou um novo método (ligarTurbo)
+const camaro = new Camaro();
+camaro.acelerar();
+camaro.freiar();
+camaro.ligarTurbo();
