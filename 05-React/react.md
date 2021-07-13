@@ -17,7 +17,7 @@ Vantagens de utilizar o React:
   - Backend: Regras de negócio
   - Frontend: Interface
 
-- [ ] **Preparando o ambientes**
+- [x] **Preparando o ambientes**
 
 É necessário realizar a instalação do [NodeJS](https://nodejs.org/en/).
 
