@@ -43,12 +43,29 @@ Fundamentos do React:
 
 O React trabalha utilizando renderizações, ou seja, o Javascript do React pega um código HTML que foi escrito dentro do Javascript e insere no HTML, criando componentes que são renderizados dentro do HTML.
 
-- [ ] **Primeiros passos e conceitos básicos**
+- [x] **Primeiros passos e conceitos básicos**
 
-- props, state e hooks
+- Componentes
+  Componentes permitem você dividir a UI em partes independentes, reutilizáveis e pensar em cada parte isoladamente.
 
-- [ ] **Consumindo dados de uma API com Axios**
+- Props (abreviação de properties).
+  São informações que podem ser passadas para um componente para serem usados por ele. Pode ser uma string, um número, até mesmo uma função. Este valor pode então ser utilizado pelo componente que a recebe.
 
-- [ ] **Utilizando React Router para criar rotas**
+- State
+  São dados utilizados pelo componente, privados e controlados pelo próprio. Pode ser também uma string, um objeto, um array ou um número. A diferença é que ao invés de receber a informação e somente utilizá-la, o state é privado e completamente controlado pelo componente.
+
+- Hooks
+  Um Hook é uma função especial que te permite utilizar recursos do React. Por exemplo, useState é um Hook que te permite adicionar o state do React a um componente de função.
+
+- [x] **Consumindo dados de uma API com Axios**
+
+Aprendemos a fazer requisições, lidar com métodos e componentes controlados nesta aula.
+
+Fizemos uma requisição na API do GitHub para pegar os dados dos repositórios de algum usuário.
+
+- [x] **Utilizando React Router para criar rotas**
+
+Instalação e configuração do react-router-dom no Projeto.
+
 - [ ] **Boas práticas: organização e estilo**
 - [ ] **Entendendo, na prática, o poder da programação declarativa**
