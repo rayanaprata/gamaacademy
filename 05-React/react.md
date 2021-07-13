@@ -19,22 +19,20 @@ Vantagens de utilizar o React:
 
 - [x] **Preparando o ambientes**
 
-É necessário realizar a instalação do [NodeJS](https://nodejs.org/en/).
-
-O node por padrão vem com o gerenciador de pacotes [NPM](https://www.npmjs.com/) instalado.
-
-Durante o curso utilizamos o [VS Code](https://code.visualstudio.com/).
+ - É necessário realizar a instalação do [NodeJS](https://nodejs.org/en/).
+ - O node por padrão vem com o gerenciador de pacotes [NPM](https://www.npmjs.com/) instalado.
+ - Durante o curso utilizamos o [VS Code](https://code.visualstudio.com/).
 
 Para iniciar o projeto:
 
-1. Entrar no repositório que você deseja iniciar o projeto.
-2. Rodar o comando:
-   $ npx create-react-app gamagit
+#### 1. Entrar no repositório que você deseja iniciar o projeto.
+  #### 2. Rodar o comando:
+	npx create-react-app gamagit
 
-Você pode substituir o gamagit pelo nome que você quer dar ao seu projeto.
+*Você pode substituir o gamagit pelo nome que você quer dar ao seu projeto.
 
-Após concluir a criação do seu projeto você pode executar o comando:
-$ npm start
+  #### Após concluir a criação do seu projeto você pode executar o comando:
+	npm start
 
 - [ ] **Entendendo a arquitetura do React**
 - [ ] **Primeiros passos e conceitos básicos**
