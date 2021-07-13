@@ -1,10 +1,13 @@
 import React, { useState } from "react";
+import axios from "axios";
 
 function App(props) {
   const [usuario, setUsuario] = useState("");
 
   function handlePesquisa() {
-    console.log(usuario);
+    axios
+      .get(`https://api.github.com/users/${usuario}/repos`)
+      .then((response) => console.log(response.data));
   }
 
   return (
