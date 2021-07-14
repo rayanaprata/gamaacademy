@@ -67,5 +67,20 @@ Fizemos uma requisição na API do GitHub para pegar os dados dos repositórios 
 
 Instalação e configuração do react-router-dom no Projeto.
 
-- [ ] **Boas práticas: organização e estilo**
-- [ ] **Entendendo, na prática, o poder da programação declarativa**
+- Configurar o arquivo de rotas;
+- Importar o arquivo de rotas no App.js;
+- Utilizando boas práticas utilizando a rota do Home como componente principal da aplicaçã utilizando 'exact'.
+
+- [x] **Boas práticas: organização e estilo**
+
+Criamos uma pasta components e outra pages, além disso também foram criadas pastas para as páginas de Home e Repositories (que agora se chamam index.js), que ficam dentro da pasta pages.
+
+Fizemos a instalação e aprendemos a utilizar o Styled Components no projeto.
+
+Aprendemos a salvar dados no Storage.
+
+- [x] **Entendendo, na prática, o poder da programação declarativa**
+
+Programação Imperativa: você precisa dizer tudo o que o computador precisa fazer, é necessário ser mais verboso.
+
+Programação Declarativa: ela fala para o computador o que eu espero que aconteça em um estado específico.
