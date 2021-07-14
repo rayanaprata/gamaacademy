@@ -27,10 +27,16 @@ export const Button = styled.button`
   background: #f7f7f7;
   color: #333;
   border-radius: 0 0.25rem 0.25rem 0;
+  cursor: pointer;
 
   &:focus,
   &:active {
     outline: none;
     box-shadow: none;
+  }
+
+  &:hover {
+    background: #333;
+    color: #f7f7f7;
   }
 `;
