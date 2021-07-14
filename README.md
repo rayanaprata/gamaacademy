@@ -16,6 +16,7 @@ Repositório para armazenar as atividades realizadas durante o Bootcamp Hiring C
 - [x] Javascript Avançado
 - [x] Typescript
 - [ ] React
+- [ ] GraphQL
 
 ## ✨ Assignments
 
