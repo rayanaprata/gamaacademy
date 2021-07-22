@@ -235,11 +235,11 @@ Foi compartilhado um TED que eu já tinha assistido e particularmente gosto muit
 - [x] 08 - Pacote com React.js
 - [x] 09 - Rotas com react-router-dom
 - [x] 10 - Mudando server para express
-- [ ] 11 - Requisição assíncrona
-- [ ] 12 - Resolvendo CORS
-- [ ] 13 - APIs RESTful
-- [ ] 14 - Apollo Server
-- [ ] 15 - TypeDefs e resolvers
+- [x] 11 - Requisição assíncrona
+- [x] 12 - Resolvendo CORS
+- [x] 13 - APIs RESTful
+- [x] 14 - Apollo Server
+- [x] 15 - TypeDefs e resolvers
 - [ ] 16 - Introdução a GraphQL Query
 - [ ] 17 - Criando GraphQL Queries
 - [ ] 18 - Paginação, ordenação e filtros
