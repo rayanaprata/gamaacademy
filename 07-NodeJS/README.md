@@ -1,0 +1,38 @@
+## [HC] Módulo 09 - Node.JS Parte I
+
+- [x] 01 - Introdução Fundamentos de Node
+- [ ] 02 - Definição de back-end e front-end
+- [ ] 03 - Definição de Node
+- [ ] 04 - Benchmark Node
+- [ ] 05 - Instalação do Node
+- [ ] 06 - Prática "Hello World" em Node
+- [ ] 07 - Documentações de apoio sobre Node
+- [ ] 08 - O problema de gerenciamento de pacotes
+- [ ] 09 - Como funciona NPM
+- [ ] 10 - Prática de NPM
+- [ ] 11 - Documentações de apoio sobre NPM
+- [ ] 12 - Definição de JavaScript
+- [ ] 13 - Prática de desenvolvimento em JavaScript
+- [ ] 14 - Documentações sobre JavaScript
+- [ ] 15 - Definição de TypeScript
+- [ ] 16 - Prática de desenvolvimento em TypeScript
+- [ ] 17 - Documentações de apoio sobre TypeScript
+- [ ] 18 - Finalização
+- [ ] 19 - Introdução entendendos os conceitos de REST e SOAP
+- [ ] 20 - Configurando Nodemon
+- [ ] 21 - Configurando Docker
+- [ ] 22 - Configurando ElephantSQL e PostBird
+- [ ] 23 - ORM
+- [ ] 24 - Migration usuários
+- [ ] 25 - Model usuários
+- [ ] 26 - Controller usuários
+- [ ] 27 - Hashde senhas usuários
+- [ ] 28 - Autenticação JWT
+- [ ] 29 - Token JWT via Header
+- [ ] 30 - Atualizando usuário
+- [ ] 31 - Validação de dados
+- [ ] 32 - Adicionando foto do usuário
+- [ ] 33 - Vinculando fotos ao usuário
+- [ ] 34 - Listagem de prestadores de serviços
+- [ ] 35 - Models de agendamento
+- [ ] 36 - Criando agendamentos
