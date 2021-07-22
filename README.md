@@ -240,7 +240,7 @@ Foi compartilhado um TED que eu já tinha assistido e particularmente gosto muit
 - [x] 13 - APIs RESTful
 - [x] 14 - Apollo Server
 - [x] 15 - TypeDefs e resolvers
-- [ ] 16 - Introdução a GraphQL Query
+- [x] 16 - Introdução a GraphQL Query
 - [ ] 17 - Criando GraphQL Queries
 - [ ] 18 - Paginação, ordenação e filtros
 - [ ] 19 - GraphQL Mutation
