@@ -26,7 +26,7 @@
 - [ ] 24 - Migration usuários
 - [ ] 25 - Model usuários
 - [ ] 26 - Controller usuários
-- [ ] 27 - Hashde senhas usuários
+- [ ] 27 - Hash de senhas usuários
 - [ ] 28 - Autenticação JWT
 - [ ] 29 - Token JWT via Header
 - [ ] 30 - Atualizando usuário
