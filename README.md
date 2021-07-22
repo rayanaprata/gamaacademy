@@ -16,7 +16,7 @@ Repositório para armazenar as atividades realizadas durante o Bootcamp Hiring C
 - [x] Javascript Avançado
 - [x] Typescript
 - [x] React
-- [x] GraphQL
+- [ ] GraphQL
 - [ ] NodeJS
 
 ## ✨ Assignments
@@ -254,8 +254,8 @@ Foi compartilhado um TED que eu já tinha assistido e particularmente gosto muit
 # [HC] Módulo 09 - Node.JS Parte I
 
 - [x] 01 - Introdução Fundamentos de Node
-- [ ] 02 - Definição de back-end e front-end
-- [ ] 03 - Definição de Node
+- [x] 02 - Definição de back-end e front-end
+- [x] 03 - Definição de Node
 - [ ] 04 - Benchmark Node
 - [ ] 05 - Instalação do Node
 - [ ] 06 - Prática "Hello World" em Node
