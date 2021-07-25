@@ -548,7 +548,7 @@ _Decisão_: Estratégia, planos de ação, encaminhamentos.
 - [x] 02 - Definição de back-end e front-end
 - [x] 03 - Definição de Node
 - [x] 04 - Benchmark Node
-- [ ] 05 - Instalação do Node
+- [x] 05 - Instalação do Node
 - [ ] 06 - Prática "Hello World" em Node
 - [ ] 07 - Documentações de apoio sobre Node
 - [ ] 08 - O problema de gerenciamento de pacotes
