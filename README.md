@@ -549,7 +549,7 @@ _Decisão_: Estratégia, planos de ação, encaminhamentos.
 - [x] 03 - Definição de Node
 - [x] 04 - Benchmark Node
 - [x] 05 - Instalação do Node
-- [ ] 06 - Prática "Hello World" em Node
+- [x] 06 - Prática "Hello World" em Node
 - [ ] 07 - Documentações de apoio sobre Node
 - [ ] 08 - O problema de gerenciamento de pacotes
 - [ ] 09 - Como funciona NPM
