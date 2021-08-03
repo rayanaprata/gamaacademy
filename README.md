@@ -533,7 +533,7 @@ _Decisão_: Estratégia, planos de ação, encaminhamentos.
 - [x] 15 - TypeDefs e resolvers
 - [x] 16 - Introdução a GraphQL Query
 - [x] 17 - Criando GraphQL Queries
-- [ ] 18 - Paginação, ordenação e filtros
+- [x] 18 - Paginação, ordenação e filtros
 - [ ] 19 - GraphQL Mutation
 - [ ] 20 - Mutation para alterar e excluir clients
 - [ ] 21 - Configurando o Apollo Link
