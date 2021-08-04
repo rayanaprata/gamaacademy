@@ -17,7 +17,7 @@ Repositório para armazenar as atividades realizadas durante o Bootcamp Hiring C
 - [x] Typescript
 - [x] React
 - [x] GraphQL
-- [ ] NodeJS
+- [x] NodeJS
 
 ## ✨ Assignments focados em Soft Skill
 
