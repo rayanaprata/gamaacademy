@@ -1,7 +1,7 @@
 ## [HC] Módulo 09 - Node.JS Parte I
 
 - [x] 01 - Introdução Fundamentos de Node
-- [ ] 02 - Definição de back-end e front-end
+- [x] 02 - Definição de back-end e front-end
 - [ ] 03 - Definição de Node
 - [ ] 04 - Benchmark Node
 - [ ] 05 - Instalação do Node
